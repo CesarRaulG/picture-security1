@@ -1,0 +1,29 @@
+body{
+    font-family: 'Poppins' ;
+}
+
+header .contenedor {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+li{ 
+    list-style: none;
+}
+
+.contenedor {
+    max-width: 1280px;
+    width: 90%;
+    margin: 28px;
+}
+
+
+header ul{
+    display: flex;
+}
+
+header ul li {
+    margin-right: 20px;
+}
+
